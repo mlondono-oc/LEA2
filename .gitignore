@@ -1,8 +1,8 @@
 .DS_Store
 tuner_result
 results_tuner
-data/
-Modulo-2/M1_Algoritmos_bases_introductorios_RL.ipynb
+Modulo-2/data/dataPreprocessing.csv
+Modulo-2/data/student-pass-fail-data.csv
 Modulo-2/M1_Algoritmos_bases_introductorios_RLog.ipynb
 Modulo-2/M1_Algoritmos_de_Shallow_Learning.ipynb
 Modulo-2/M1_Optimización_de_hiperparámetros.ipynb
